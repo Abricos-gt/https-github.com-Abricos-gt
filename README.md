@@ -1,4 +1,4 @@
-# https-github.com-Abricos-gt
+ 
 👋 Hi, I’m @AbrhaGebrehiwet  
 Computer Science Student | Building Inclusive Digital Solutions for a Better World  
 
@@ -20,7 +20,7 @@ Computer Science Student | Building Inclusive Digital Solutions for a Better Wor
 
 📫 How to reach me...  
 📧 Email: abrishg.tesfamichael@example.com  
-💼 LinkedIn: [www.linkedin.com/in/abrha-gebrehiwet-97410725b](#) *(replace with your real link)*  
+💼 LinkedIn: www.linkedin.com/in/abrha-gebrehiwet-97410725b(#)   
 
 ⚡ Fun fact: I once helped conduct a vaccination coverage survey in a refugee camp — data truly can save lives!  
 
